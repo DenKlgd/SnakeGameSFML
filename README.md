@@ -8,6 +8,8 @@ A simple snake game based on SFML
 
 # How to build
 
+!!!!Set platform to x86!!!!
+
 If you build from my solution, skip to the step 2.
 
 1)In the project's properties, add:
